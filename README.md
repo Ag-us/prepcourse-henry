@@ -1,2 +1,5 @@
-# prepcourse-henry
-Es un repositorio de prueba del modulo 2 del prepcourse de henry
+proyecto de prueba para crear un repositorio 
+proyecto de prueba para realizar primer commit
+otra line
+otra linea
+otra linea mas
